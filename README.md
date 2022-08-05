@@ -26,3 +26,7 @@ O projeto consiste em aplicar o método de Transfer Learning em uma rede de Deep
 'test'	1.885 imagens</br>
 'train'	5.656 imagens</br>
 'validation'	1.889 imagens</br>
+
+
+### Exemplo no Colaboratory
+https://colab.research.google.com/drive/1g9FhcUU78J8r99ofUgL-MOv-Te-RVGTr#scrollTo=DMLvAbMB-yEX
